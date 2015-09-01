@@ -1,0 +1,9 @@
+<?php /*var_dump($oke)*/ ?>
+
+<?php /*$msg*/ ?>
+
+<?php echo e(url()); ?>
+
+
+<?php echo e(config('app.debug')); ?>
+
